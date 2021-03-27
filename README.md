@@ -6,4 +6,4 @@
 
 - Please reach out to me anytime at my email: kleiben@gmail.com. You can also find me on LinkedIn: linkedin.com/in/kevin-e-m
 
-- Feel free to check out my repositories on here, which will have a short description such as this to guide you through it. Here is my portfolio hosted on Github: kevin-elliott-mccrea.github.io
+- Feel free to check out my repositories on here, which will have a short description such as this to guide you through the programming work I have completed. Here is my portfolio hosted on Github, for ease of access: kevin-elliott-mccrea.github.io
